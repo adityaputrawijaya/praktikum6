@@ -28,9 +28,9 @@ print(item) # print tuple (key, value)
 print(item[0]) # print key item
 ```
 #### - HASIL SETELAH DI RUN
-```
+
 ![gambar1](gambar/gam11.png)
-```
+
 
 # LATIHAN 1
 ### MEMBUAT DICTIONARY DAFTAR KONTAK
