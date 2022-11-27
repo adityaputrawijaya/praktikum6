@@ -29,7 +29,7 @@ print(item[0]) # print key item
 ```
 #### - HASIL SETELAH DI RUN
 ```
-![gambar1](gambar/gam1.png)
+![gambar1](gambar/gam11.png)
 ```
 
 # LATIHAN 1
