@@ -44,7 +44,7 @@ print(item[0]) # print key item
 - Hapus kontak Dina.
 
 ### CONTOHNYA
-![gambar1](gambar/gam1.png)
+![gambar1](gambar/gam2.ipeg)
 
 ### HASIL SETELAH DI RUN
 ![gambar1](gambar/gam1.png)
