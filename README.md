@@ -69,6 +69,12 @@ print(item[0]) # print key item
 - Membuat syntax untuk apabila memilih pilihan yang tidak ada di menu.
 - Jika kita menginputkan selain yang ada pada menu (T, U, H, C, L, K) maka kita akan diminta untuk memilih menu yang tersedia.
 
+### CONTOH NYA
+![gambar1](gambar/gam5.png)
+![gambar1](gambar/gam6.png)
+
+### HASIL SETELAH DI RUN
+![gambar1](gambar/gam.png)
 
 
 
