@@ -145,7 +145,7 @@ else:
 ### HASIL SETELAH DI RUN
 ![gambar1](gambar/gam.png)
 
-![gambar1](gambar/IMG-20221129-WA0002.jpg
+![gambar1](gambar/IMG-20221129-WA0002.jpg)
 
 
 
