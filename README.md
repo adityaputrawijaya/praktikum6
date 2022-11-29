@@ -145,6 +145,7 @@ else:
 ### HASIL SETELAH DI RUN
 ![gambar1](gambar/gam.png)
 
+### FLOWCHART
 ![gambar1](IMG-20221129-WA0002.jpg)
 
 
